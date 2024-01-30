@@ -1,4 +1,6 @@
-### Hi there 👋
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/PrasantaScripts)
+<h1 align="center">Hii👋, I am Prasanta Mondal<h1>
+<h1 align="center">🚀 A Developer Thriving in Challenging Conditions 🚀</h1>
 
 # 💫 About Me:
 -- 🚀 I’m currently working on **Avatar making and processing in web**<br><br>--🌱 I’m Currently learning **DSA core fundamentals**<br><br>--💬 Ask me about **JavaScript, Node, React, SQL, mongoDB**<br><br>--📞 How to reach me out **prasanta.mca2024@gmail.com**<br><br>--⚡ Fun fact **My exploration never ends**
