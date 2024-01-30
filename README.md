@@ -2,7 +2,7 @@
 <h1 align="center">Hii👋, I am Prasanta Mondal</h1>
 <h3 align="center">🚀 A Developer Thriving in Challenging Conditions 🚀</h3>
 
-<h2 align="center"> 💫 About Me: </h2>
+<h2 align="initial"> 💫 About Me: </h2>
 -- 🚀 I’m currently working on **Avatar making and processing in web**<br><br>--🌱 I’m Currently learning **DSA core fundamentals**<br><br>--💬 Ask me about **JavaScript, Node, React, SQL, mongoDB**<br><br>--📞 How to reach me out **prasanta.mca2024@gmail.com**<br><br>--⚡ Fun fact **My exploration never ends**
 
 
