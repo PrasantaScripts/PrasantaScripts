@@ -20,9 +20,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=PrasantaScripts&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?&theme=tokyonight" width="100%" alt="Random Dev Quote">
-</p>
+![](https://quotes-github-readme.vercel.app/api?&theme=tokyonight)
 
 
 ### 🔝 Top Contributed Repo
